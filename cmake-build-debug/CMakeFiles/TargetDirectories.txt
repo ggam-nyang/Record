@@ -1,0 +1,3 @@
+/Users/ggam-nyang/Passions/Record/cmake-build-debug/CMakeFiles/Record.dir
+/Users/ggam-nyang/Passions/Record/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ggam-nyang/Passions/Record/cmake-build-debug/CMakeFiles/rebuild_cache.dir

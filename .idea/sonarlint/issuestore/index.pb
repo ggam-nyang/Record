@@ -1,0 +1,29 @@
+
+>
+CMakeLists.txt,9/a/9a2aa4db38d3115ed60da621e012c0efc0172aae
+>
+C++/Deep/deque,d/0/d0fca409bd312b847456ec8014b09153b9fdba15
+A
+C++/Deep/deque.md,f/d/fdaf998f3aba63e0aa8d2ce8f323371a9b7d09ce
+P
+ C++/Shallow/reference_vs_pointer,8/c/8c22a0165a8d1514fb934fae6e5dda8c908b7cc2
+S
+#C++/Shallow/reference_vs_pointer.md,b/f/bfe14a11a11aa0a9eb6c6dea7da5de6cf0a364c0
+O
+C++/Shallow/virtual_function.md,6/3/6311ce46213d62d0ecb02adaf056cd13cb9e19f8
+J
+C++/Shallow/memory_pool.md,e/6/e6689102716a6c2172cd3b6ea12a0941d01862a9
+C
+C++/Shallow/dump.md,5/f/5f7b61e47727bf5c2b9d291a8c2698d58ab5e6fc
+C
+C++/Shallow/cast.md,9/0/9075b05a40fa7c09af0f1b3c0dfae51be62bef3a
+E
+C++/Shallow/memory.md,a/8/a8cf252f6149af4a8e05eb5f3687b437ce84bc83
+M
+C++/Shallow/kernel_vs_user.md,7/8/78184a327fe3dfb98fc790715d130a1514056765
+S
+#C++/Deep/move_perfect_forwarding.md,f/c/fcaef82bdb7ba5ec65917016a7c0bbd3568dcbed
+G
+C++/Shallow/deadlock.md,e/3/e33d637c183b773d115edc55217bc52cce211f2c
+H
+C++/Shallow/tcp_nagle.md,1/2/12a45981476b3b17ddd6ea6a8076bff76cc04dfa

@@ -1,0 +1,19 @@
+- static_cast
+    - 컴파일 시간에 타입 검사를 수행하는 가장 기본적인 캐스트
+    - 기본(primitive) 타입간 변환
+    - 상속 관계에서 **업캐스팅** (다운 캐스팅은 위험)
+- dynamic_cast
+    - 런타임에 타입 검사를 수행, 주로 다형성 클래스 계층에서 사용
+        - → [컴파일 오류가 발생하는거 아닌가?](https://modoocode.com/210#:~:text=%ED%95%98%EC%A7%80%EB%A7%8C%20%EC%9C%84%EC%9D%98%20%EA%B2%BD%EC%9A%B0%20%EC%BB%B4%ED%8C%8C%EC%9D%BC%20%ED%95%98%EA%B2%8C%20%EB%90%9C%EB%8B%A4%EB%A9%B4)
+    - 안전한 **다운캐스팅**
+    - 실패 시 포인터는 nullptr, 참조는 bad_cast exception 발생
+    - RTTI 필요 (가상 함수가 존재하는 다형성 클래스에서만 사용)
+- const_cast
+    - const 또는 volatile 속성을 제거
+    - 다른 타입 변환은 불가
+    - const를 해제하는건 위험하긴 함!
+- reinterpret_cast
+    - 포인터, 정수 타입간의 변환
+    - 타입의 비트 패턴을 재해석
+    - 포인터 ↔ 포인터, 포인터 ↔ 정수 변환
+    - 저수준 캐스팅, 플랫폼 종속적
