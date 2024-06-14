@@ -27,3 +27,7 @@ G
 C++/Shallow/deadlock.md,e/3/e33d637c183b773d115edc55217bc52cce211f2c
 H
 C++/Shallow/tcp_nagle.md,1/2/12a45981476b3b17ddd6ea6a8076bff76cc04dfa
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+J
+C++/effective/ch1/item1.md,a/0/a0e184984a0825ecdd66d629fccd060fc2225bbd
