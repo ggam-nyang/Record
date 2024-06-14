@@ -31,3 +31,5 @@ H
 	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 J
 C++/effective/ch1/item1.md,a/0/a0e184984a0825ecdd66d629fccd060fc2225bbd
+J
+C++/effective/ch1/item2.md,4/8/4858600bef482bf0419f8374b986b7016747aae2
